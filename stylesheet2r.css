@@ -13,6 +13,11 @@ a {
   text-decoration: none;
 }
 
+.clear {
+  clear: left;
+}
+
+
 .container {
   /* widthを100%にしてください */
   width: 100%;
@@ -115,7 +120,6 @@ header {
 }
 
 .lesson-wrapper {
-  height: 580px;
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
